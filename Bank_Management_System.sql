@@ -38,7 +38,7 @@ CREATE TABLE `customer_details` (
 
 LOCK TABLES `customer_details` WRITE;
 /*!40000 ALTER TABLE `customer_details` DISABLE KEYS */;
-INSERT INTO `customer_details` VALUES (1,' Rudransh Singh ',1234567890,' abc ',200),(2,' Shreyansh Dutt Mehra ',987654321,' zyx ',100),(3,' shreya kumari ',1234567890,' lmn ',200);
+INSERT INTO `customer_details` VALUES (1,'ram',1234567890,' abc ',200),(2,' Shreyansh Dutt Mehra ',987654321,' zyx ',100),(3,' shyam ',1234567890,' lmn ',200);
 /*!40000 ALTER TABLE `customer_details` ENABLE KEYS */;
 UNLOCK TABLES;
 
